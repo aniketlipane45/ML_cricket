@@ -2,7 +2,6 @@
 
 Welcome to the **T20-Cricket-Match-Score-Prediction** repository! This project focuses on predicting scores for T20 cricket matches using machine learning techniques. The application leverages machine learning models to forecast match outcomes based on various features, providing valuable insights for cricket enthusiasts and analysts.
 
-![T20 Cricket Match Score Prediction](https://github.com/user-attachments/assets/e5e7cd05-18d4-4d3a-8e0e-3f8e53fd58c3)
 
 ## 📋 Contents
 
@@ -195,22 +194,4 @@ Key takeaways from this project:
 
 This repository was created to showcase a practical application of machine learning for predicting cricket match scores. It demonstrates how to build, train, and deploy a predictive model using Flask.
 
----
-
-## 📝 License
-
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the [LICENSE](LICENSE) file for more details.
-
----
-
-## 📬 Contact
-
-- **Email:** [iconicemon01@gmail.com](mailto:iconicemon01@gmail.com)
-- **WhatsApp:** [+8801834363533](https://wa.me/8801834363533)
-- **GitHub:** [Md-Emon-Hasan](https://github.com/Md-Emon-Hasan)
-- **LinkedIn:** [Md Emon Hasan](https://www.linkedin.com/in/md-emon-hasan)
-- **Facebook:** [Md Emon Hasan](https://www.facebook.com/mdemon.hasan2001/)
-
----
-
-Feel free to adjust and expand this template according to your project’s specifics and requirements.
+djust and expand this template according to your project’s specifics and requirements.
